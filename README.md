@@ -6,4 +6,21 @@ I learned about the skillbridge opportunity and started to reasearch that more t
 This eportfolio will blossom into a site where I can show all my credentials as well as future projects. 
 ![CMS CYBERVETS](https://user-images.githubusercontent.com/98282432/153487603-02c7c37b-7f5e-4f39-88c3-45782af31364.png)
 
-# wiki
+# Wiki 
+Here you can visit my [Home page](https://github.com/ChaseBCMS/CybervetsInfo/wiki) where you can view the following:
+
+* [Resume](https://github.com/ChaseBCMS/CybervetsInfo/wiki/Resume)
+* [LinkedIn](www.linkedin.com/in/chasebaumfalk)
+* [Projects](https://github.com/ChaseBCMS/CybervetsInfo/projects)
+
+
+
+## Projects
+
+The [projects](https://github.com/ChaseBCMS/CybervetsInfo/projects) are set up so you can see what I have accomplished and my future plans to become a fully qualified Cyber Security Personnel
+
+* [Daily Journal](https://github.com/ChaseBCMS/CybervetsInfo/projects/6)
+* [Escalate Challenges](https://github.com/ChaseBCMS/CybervetsInfo/projects/2)
+* [Achievements](https://github.com/ChaseBCMS/CybervetsInfo/projects/3)
+* [Credentials](https://github.com/ChaseBCMS/CybervetsInfo/projects/4)
+* [Civilian Workplace Competencies](https://github.com/ChaseBCMS/CybervetsInfo/projects/5)
