@@ -26,3 +26,5 @@ The [projects](https://github.com/ChaseBCMS/CybervetsInfo/projects) are set up s
 * [Civilian Workplace Competencies](https://github.com/ChaseBCMS/CybervetsInfo/projects/5)
 
 ![CMS CYBERVETS](https://user-images.githubusercontent.com/98282432/153487603-02c7c37b-7f5e-4f39-88c3-45782af31364.png)
+
+> Credit To [Arlene](https://github.com/apinste/CyberVets_ePortfolio) for images
