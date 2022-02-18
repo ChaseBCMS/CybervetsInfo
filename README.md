@@ -10,7 +10,7 @@ This eportfolio will blossom into a site where I can show all my credentials as 
 Here you can visit my [Home page](https://github.com/ChaseBCMS/CybervetsInfo/wiki) where you can view the following:
 
 * [Resume](https://github.com/ChaseBCMS/CybervetsInfo/wiki/Resume)
-* [LinkedIn](www.linkedin.com/in/chasebaumfalk)
+* [LinkedIn](https://www.linkedin.com/in/chasebaumfalk/)
 * [Projects](https://github.com/ChaseBCMS/CybervetsInfo/projects)
 
 
